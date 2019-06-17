@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="~/css/styles.css" />
+    <link rel="stylesheet" href="~/css/fontstyles.css" />
+    <title>@ViewBag.Title</title>
+    <style>
+        .input-validation-error {
+            border-color: red;
+            background-color: #fee;
+        }
+    </style>
+    <script src="~/JS/bundle.js"></script>
+    
+    
+</head>
+<body class="m-1 p-1">
+    <div class="bg-primary p-2 row">
+        <div class="col">
+            <h4 class="text-center text-white">@ViewBag.Title</h4>
+        </div>
+        <div class="col-2">
+            <a class="btn btn-sm btn-primary"
+               asp-action="Logout" asp-controller="Account">Log Out</a>
+        </div>
+    </div>
+        @if (TempData["message"] != null)
+        {
+            <div class="alert alert-warning text-center">@TempData["message"]</div>
+        }
+    @RenderBody()
+</body>
+</html>

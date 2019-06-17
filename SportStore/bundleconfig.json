@@ -1,0 +1,29 @@
+[
+  {
+    "outputFileName": "wwwroot/css/styles.css",
+    "inputFiles": [
+      "wwwroot/bower_components/bootstrap/dist/css/bootstrap.min.css",
+      "bower_components/fontawesome/css/all.css",
+      "bower_components/fontawesome/css/brands.css",
+      "bower_components/fontawesome/css/fontawesome.css",
+      "bower_components/fontawesome/css/regular.css",
+      "bower_components/fontawesome/css/solid.css",
+      "bower_components/fontawesome/css/svg-with-js.css",
+      "bower_components/fontawesome/css/v4-shims.css"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/js/bundle.js",
+    "inputFiles": [
+      "bower_components/jquery/dist/jquery.min.js",
+      "bower_components/jquery-validation/dist/jquery.validate.min.js",
+      "bower_components/jquery-validation-unobtrusive/src/jquery.validate.unobtrusive.js"
+    ]
+  }
+  //{
+  //  "outputFileName": "wwwroot/bootstrap.min.css",
+  //  "inputFiles": [
+  //    "CSS/bootstrap.css"
+  //  ]
+  //}
+]

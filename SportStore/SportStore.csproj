@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\css\fontstyles.css" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bower_components\fontawesome\css\all.css" />
+    <Content Include="bower_components\fontawesome\css\brands.css" />
+    <Content Include="bower_components\fontawesome\css\fontawesome.css" />
+    <Content Include="bower_components\fontawesome\css\regular.css" />
+    <Content Include="bower_components\fontawesome\css\solid.css" />
+    <Content Include="bower_components\fontawesome\css\svg-with-js.css" />
+    <Content Include="bower_components\fontawesome\css\v4-shims.css" />
+  </ItemGroup>
+
+  
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.0" />
+    <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.2.0" />
+  </ItemGroup>
+
+  
+  <ItemGroup>
+    <None Include="bower_components\jquery-validation-unobtrusive\src\jquery.validate.unobtrusive.js" />
+    <None Include="bower_components\jquery-validation\dist\jquery.validate.min.js" />
+    <None Include="bower_components\jquery\dist\jquery.min.js" />
+  </ItemGroup>
+
+  
+  <ItemGroup>
+    <Folder Include="wwwroot\JS\" />
+    <Folder Include="wwwroot\webfonts\" />
+  </ItemGroup>
+
+</Project>

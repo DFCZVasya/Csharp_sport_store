@@ -1,0 +1,101 @@
+G:\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.csproj.CoreCompileInputs.cache
+G:\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.RazorAssemblyInfo.cache
+G:\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.RazorAssemblyInfo.cs
+G:\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.AssemblyInfoInputs.cache
+G:\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.AssemblyInfo.cs
+G:\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.TagHelpers.input.cache
+G:\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.TagHelpers.output.cache
+G:\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.RazorCoreGenerate.cache
+G:\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+G:\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.RazorTargetAssemblyInfo.cache
+G:\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.RazorTargetAssemblyInfo.cs
+G:\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.dll
+G:\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.pdb
+G:\Csharp\SportStore\SportStore\bin\Debug\netcoreapp2.2\SportStore.deps.json
+G:\Csharp\SportStore\SportStore\bin\Debug\netcoreapp2.2\SportStore.runtimeconfig.json
+G:\Csharp\SportStore\SportStore\bin\Debug\netcoreapp2.2\SportStore.runtimeconfig.dev.json
+G:\Csharp\SportStore\SportStore\bin\Debug\netcoreapp2.2\SportStore.dll
+G:\Csharp\SportStore\SportStore\bin\Debug\netcoreapp2.2\SportStore.pdb
+G:\Csharp\SportStore\SportStore\bin\Debug\netcoreapp2.2\SportStore.Views.dll
+G:\Csharp\SportStore\SportStore\bin\Debug\netcoreapp2.2\SportStore.Views.pdb
+G:\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\Razor\Views\Product\List.g.cshtml.cs
+G:\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+G:\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+G:\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.Views.pdb
+G:\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.csproj.CopyComplete
+G:\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.csprojAssemblyReference.cache
+C:\Users\loopa\Google Диск\Csharp\SportStore\SportStore\bin\Debug\netcoreapp2.2\SportStore.deps.json
+C:\Users\loopa\Google Диск\Csharp\SportStore\SportStore\bin\Debug\netcoreapp2.2\SportStore.runtimeconfig.json
+C:\Users\loopa\Google Диск\Csharp\SportStore\SportStore\bin\Debug\netcoreapp2.2\SportStore.runtimeconfig.dev.json
+C:\Users\loopa\Google Диск\Csharp\SportStore\SportStore\bin\Debug\netcoreapp2.2\SportStore.dll
+C:\Users\loopa\Google Диск\Csharp\SportStore\SportStore\bin\Debug\netcoreapp2.2\SportStore.pdb
+C:\Users\loopa\Google Диск\Csharp\SportStore\SportStore\bin\Debug\netcoreapp2.2\SportStore.Views.dll
+C:\Users\loopa\Google Диск\Csharp\SportStore\SportStore\bin\Debug\netcoreapp2.2\SportStore.Views.pdb
+C:\Users\loopa\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.csprojAssemblyReference.cache
+C:\Users\loopa\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.csproj.CoreCompileInputs.cache
+C:\Users\loopa\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.RazorAssemblyInfo.cache
+C:\Users\loopa\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.RazorAssemblyInfo.cs
+C:\Users\loopa\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.AssemblyInfoInputs.cache
+C:\Users\loopa\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.AssemblyInfo.cs
+C:\Users\loopa\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.TagHelpers.input.cache
+C:\Users\loopa\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.TagHelpers.output.cache
+C:\Users\loopa\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.RazorCoreGenerate.cache
+C:\Users\loopa\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\Razor\Views\Product\List.g.cshtml.cs
+C:\Users\loopa\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\loopa\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\loopa\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\loopa\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.RazorTargetAssemblyInfo.cache
+C:\Users\loopa\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.RazorTargetAssemblyInfo.cs
+C:\Users\loopa\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.Views.pdb
+C:\Users\loopa\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.dll
+C:\Users\loopa\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.pdb
+C:\Users\loopa\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.csproj.CopyComplete
+C:\Users\loopa\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\NavigationMenu\Default.g.cshtml.cs
+C:\Users\loopa\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\ProductSummary.g.cshtml.cs
+C:\Users\loopa\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Index.g.cshtml.cs
+C:\Users\loopa\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\CartSummary\Default.g.cshtml.cs
+C:\Users\loopa\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\Razor\Views\Order\Checkout.g.cshtml.cs
+C:\Users\loopa\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\Razor\Views\Order\Completed.g.cshtml.cs
+C:\Users\loopa\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\Razor\Views\Order\List.g.cshtml.cs
+C:\Users\loopa\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_AdminLayout.g.cshtml.cs
+C:\Users\loopa\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\loopa\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Edit.g.cshtml.cs
+C:\Users\loopa\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Vasily\Google Диск\Csharp\SportStore\SportStore\bin\Debug\netcoreapp2.2\SportStore.deps.json
+C:\Users\Vasily\Google Диск\Csharp\SportStore\SportStore\bin\Debug\netcoreapp2.2\SportStore.runtimeconfig.json
+C:\Users\Vasily\Google Диск\Csharp\SportStore\SportStore\bin\Debug\netcoreapp2.2\SportStore.runtimeconfig.dev.json
+C:\Users\Vasily\Google Диск\Csharp\SportStore\SportStore\bin\Debug\netcoreapp2.2\SportStore.dll
+C:\Users\Vasily\Google Диск\Csharp\SportStore\SportStore\bin\Debug\netcoreapp2.2\SportStore.pdb
+C:\Users\Vasily\Google Диск\Csharp\SportStore\SportStore\bin\Debug\netcoreapp2.2\SportStore.Views.dll
+C:\Users\Vasily\Google Диск\Csharp\SportStore\SportStore\bin\Debug\netcoreapp2.2\SportStore.Views.pdb
+C:\Users\Vasily\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.csproj.CoreCompileInputs.cache
+C:\Users\Vasily\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.RazorAssemblyInfo.cache
+C:\Users\Vasily\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.RazorAssemblyInfo.cs
+C:\Users\Vasily\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.AssemblyInfoInputs.cache
+C:\Users\Vasily\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.AssemblyInfo.cs
+C:\Users\Vasily\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.TagHelpers.input.cache
+C:\Users\Vasily\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.TagHelpers.output.cache
+C:\Users\Vasily\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.RazorCoreGenerate.cache
+C:\Users\Vasily\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Vasily\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Edit.g.cshtml.cs
+C:\Users\Vasily\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\Vasily\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Index.g.cshtml.cs
+C:\Users\Vasily\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\Razor\Views\Error\Error.g.cshtml.cs
+C:\Users\Vasily\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\Razor\Views\Order\Checkout.g.cshtml.cs
+C:\Users\Vasily\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\Razor\Views\Order\Completed.g.cshtml.cs
+C:\Users\Vasily\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\Razor\Views\Order\List.g.cshtml.cs
+C:\Users\Vasily\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\Razor\Views\Product\List.g.cshtml.cs
+C:\Users\Vasily\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\CartSummary\Default.g.cshtml.cs
+C:\Users\Vasily\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\NavigationMenu\Default.g.cshtml.cs
+C:\Users\Vasily\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\ProductSummary.g.cshtml.cs
+C:\Users\Vasily\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_AdminLayout.g.cshtml.cs
+C:\Users\Vasily\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Vasily\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Vasily\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Vasily\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.RazorTargetAssemblyInfo.cache
+C:\Users\Vasily\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.RazorTargetAssemblyInfo.cs
+C:\Users\Vasily\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.Views.pdb
+C:\Users\Vasily\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.dll
+C:\Users\Vasily\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.pdb
+C:\Users\Vasily\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.csproj.CopyComplete
+C:\Users\Vasily\Google Диск\Csharp\SportStore\SportStore\obj\Debug\netcoreapp2.2\SportStore.csprojAssemblyReference.cache
